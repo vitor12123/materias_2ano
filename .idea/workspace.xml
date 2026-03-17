@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73c09c27-a91d-45fc-98f7-8360a891336c" name="Changes" comment="">
+      <changelist_data name="vitor12123" email="vitorpallis@gmail.com" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/cliente/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/cliente/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/materias_2ano.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/materias_2ano.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain driven desing/aula3/MainAula3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/MainAula3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/materias_2ano/MainAula2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/materias_2ano/MainAula2.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3B37YYFxNMJVMn0hX5pRnQSIkhz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainAula2.executor": "Run",
+    "Application.MainAula3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainAula3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MainAula3" />
+      <module name="materias_2ano" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainAula3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73c09c27-a91d-45fc-98f7-8360a891336c" name="Changes" comment="" />
+      <created>1773705948534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773705948534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD: aula 2 de data science" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: aula 2 de data science" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/materias_2ano$MainAula3.ic" NAME="MainAula3 Coverage Results" MODIFIED="1774314444047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
