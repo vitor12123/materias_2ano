@@ -1,9 +1,9 @@
-import cliente.Cliente;
-import cliente.Endereco;
+import com.delivery.Cliente;
+import com.delivery.Endereco;
 
 import java.util.ArrayList;
 
-public class MainAula3 {
+public class MainAula34 {
     public static void main(String[] args) {
 
         ArrayList<String> lista = new ArrayList();

@@ -1,4 +1,4 @@
-package cliente;
+package com.delivery;
 
 public class Cliente {
     private String id;

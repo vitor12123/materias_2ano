@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="73c09c27-a91d-45fc-98f7-8360a891336c" name="Changes" comment="">
       <changelist_data name="vitor12123" email="vitorpallis@gmail.com" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/com/pedido/ItemPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/com/pedido/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/materias_2ano.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/materias_2ano.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/MainAula3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/MainAula34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/cliente/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/com/delivery/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/cliente/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain driven desing/aula3_e_4/com/delivery/Endereco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +34,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vitor12123/materias_2ano",
-    "accountId": "3f047f8c-32e6-447e-b9f0-536441700fbc"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vitor12123&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vitor12123/materias_2ano&quot;,
+    &quot;accountId&quot;: &quot;dfd54d69-57e9-4cbd-bb7a-ed4a710af173&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -41,15 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MainAula2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainAula2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="MainAula2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainAula2" />
@@ -90,6 +113,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

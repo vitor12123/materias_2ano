@@ -1,4 +1,4 @@
-package cliente;
+package com.delivery;
 
 public class Endereco {
     private final String rua;
